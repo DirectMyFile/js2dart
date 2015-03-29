@@ -1,0 +1,6 @@
+name: js2dart
+version: 1.0.0
+description: JavaScript Syntax to Dart Syntax Converter
+dependencies:
+  analyzer: ">=0.24.0 <0.25.0"
+  parsejs: ">=1.0.3 <2.0.0"
